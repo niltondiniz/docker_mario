@@ -15,7 +15,7 @@ Caso o git peça seus dados, informe de acordo com o solicitado.
 
 #### 4- Agora digite:
 ```
-cd super_mario
+cd docker_mario
 ```
 Este comando entra na pasta referente ao repositório recém baixado
 
